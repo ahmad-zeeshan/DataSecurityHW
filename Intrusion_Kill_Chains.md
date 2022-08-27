@@ -1,3 +1,6 @@
+**HOME WORK IN PROGRESS*
+
+
 **Intelligence-Driven Computer Network Defense, Informed by Analysis of Adversary Campaigns and Intrusion Kill Chains**
 
 
