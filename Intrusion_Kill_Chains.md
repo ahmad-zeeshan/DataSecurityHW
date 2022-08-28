@@ -37,4 +37,12 @@ Rehearsed all basic commands
 
 - Register http://localhost:8080/WebGoat/
 
+**4-OverTheWire:Bandit** 
+
+https://github.com/ahmad-zeeshan/DataSecurityHW/blob/main/screenshots/bandit0.png
+https://github.com/ahmad-zeeshan/DataSecurityHW/blob/main/screenshots/bandit1.png
+https://github.com/ahmad-zeeshan/DataSecurityHW/blob/main/screenshots/bandit2.png
+https://github.com/ahmad-zeeshan/DataSecurityHW/blob/main/screenshots/bandit3.png
+https://github.com/ahmad-zeeshan/DataSecurityHW/blob/main/screenshots/bandit4.png
+https://github.com/ahmad-zeeshan/DataSecurityHW/blob/main/screenshots/bandit5.png
 
