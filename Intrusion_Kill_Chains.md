@@ -31,4 +31,10 @@ Rehearsed all basic commands
 
 - Download and kickstarted webgoat
 
+```$ wget https://terokarvinen.com/2020/install-webgoat-web-pentest-practice-target/webgoat-server-8.0.0.M26.jar```
+
+```$ java -jar webgoat-server-8.0.0.M26.jar```
+
+- Register http://localhost:8080/WebGoat/
+
 
