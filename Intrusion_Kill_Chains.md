@@ -1,4 +1,4 @@
-
+**Homework-1**
 
 **1-Summarize Article 3.2 & 3.3**
 
@@ -46,3 +46,8 @@ Rehearsed all basic commands
 ![bandit4](https://github.com/ahmad-zeeshan/DataSecurityHW/blob/main/screenshots/bandit4.png)
 ![bandit5](https://github.com/ahmad-zeeshan/DataSecurityHW/blob/main/screenshots/bandit5.png)
 
+**5-Webgoat exercises**
+
+![Webgoat](https://github.com/ahmad-zeeshan/DataSecurityHW/blob/main/screenshots/http_basics.png)
+![Webgoat](https://github.com/ahmad-zeeshan/DataSecurityHW/blob/main/screenshots/developer_tools1.png)
+![Webgoat](https://github.com/ahmad-zeeshan/DataSecurityHW/blob/main/screenshots/developer_tools2.png)
