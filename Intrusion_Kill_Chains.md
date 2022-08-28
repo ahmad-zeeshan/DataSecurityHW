@@ -25,7 +25,10 @@ Rehearsed all basic commands
 
 ```$ sudo apt-get -y install ufw; sudo systemctl status ufw; sudo systemctl start ufw ```
 
-- Snapshot of machine state
+- Snapshot of machine state in VB
 
+```$ sudo apt-get -y install openjdk-17-jre wget bash-completion```
+
+- Download and kickstarted webgoat
 
 
