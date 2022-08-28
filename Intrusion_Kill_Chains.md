@@ -9,7 +9,7 @@ This paper also introduced new kill chain model designed specifically by keeping
 
 The intrusion kill chain enables the analysis of intrusions, the extraction of indicators, and the deployment of defensive measures. The kill chain represents an asymmetry between aggressor and defender, with any repeating component by the aggressor seen as a liability.
 
-**Command-line Basics Re-visited
+**2-Command-line Basics Re-visited**
 
 Rehearsed all basic commands 
 
