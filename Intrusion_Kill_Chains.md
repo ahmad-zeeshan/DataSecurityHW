@@ -9,11 +9,23 @@ This paper also introduced new kill chain model designed specifically by keeping
 
 The intrusion kill chain enables the analysis of intrusions, the extraction of indicators, and the deployment of defensive measures. The kill chain represents an asymmetry between aggressor and defender, with any repeating component by the aggressor seen as a liability.
 
-**2-Install Debian Virtual Machine**
+**Command-line Basics Re-visited
+
+Rehearsed all basic commands 
+
+**3-Install Debian Virtual Machine**
 
 - Installed Virtual Box
 - Spun up Debian VM using recommended Image: ```debian-live-11.4.0-amd64-xfce+nonfree.iso```
-- Installed recommended packages
+- Installed recommended packages and upgrades
+
+```$ sudo apt-get update```
+
+```$ sudo apt-get -y dist-upgrade```
+
+```$ sudo apt-get -y install ufw; sudo systemctl status ufw; sudo systemctl start ufw ```
+
+- Snapshot of machine state
 
 
 
