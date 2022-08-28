@@ -39,15 +39,37 @@ Rehearsed all basic commands
 
 **4-OverTheWire:Bandit Screenshots** 
 
+Bandit Level 0
+
 ![bandit0](https://github.com/ahmad-zeeshan/DataSecurityHW/blob/main/screenshots/bandit0.png)
+
+Bandit Level 0 → Level 1
+
 ![bandit1](https://github.com/ahmad-zeeshan/DataSecurityHW/blob/main/screenshots/bandit1.png)
+
+Bandit Level 1 → Level 2
+
 ![bandit2](https://github.com/ahmad-zeeshan/DataSecurityHW/blob/main/screenshots/bandit2.png)
+
+Bandit Level 2 → Level 3
+
 ![bandit3](https://github.com/ahmad-zeeshan/DataSecurityHW/blob/main/screenshots/bandit3.png)
+
+Bandit Level 3 → Level 4
+
 ![bandit4](https://github.com/ahmad-zeeshan/DataSecurityHW/blob/main/screenshots/bandit4.png)
+
+Bandit Level 4 → Level 5
+
 ![bandit5](https://github.com/ahmad-zeeshan/DataSecurityHW/blob/main/screenshots/bandit5.png)
 
 **5-Webgoat exercises**
 
+Http basics
+
 ![Webgoat](https://github.com/ahmad-zeeshan/DataSecurityHW/blob/main/screenshots/http_basics.png)
+
+Developer tools
+
 ![Webgoat](https://github.com/ahmad-zeeshan/DataSecurityHW/blob/main/screenshots/developer_tools1.png)
 ![Webgoat](https://github.com/ahmad-zeeshan/DataSecurityHW/blob/main/screenshots/developer_tools2.png)
