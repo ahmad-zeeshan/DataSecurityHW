@@ -1,4 +1,4 @@
-**HOME WORK IN PROGRESS**
+
 
 **1-Summarize Article 3.2 & 3.3**
 
