@@ -11,6 +11,9 @@ The intrusion kill chain enables the analysis of intrusions, the extraction of i
 
 **2-Install Debian Virtual Machine**
 
-Installed Virtual Box
-Spun up Debian VM using recommended Image: debian-live-11.4.0-amd64-xfce+nonfree.iso
+- Installed Virtual Box
+- Spun up Debian VM using recommended Image: ```debian-live-11.4.0-amd64-xfce+nonfree.iso```
+- Installed recommended packages
+
+
 
