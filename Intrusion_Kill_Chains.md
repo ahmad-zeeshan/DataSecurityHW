@@ -37,12 +37,12 @@ Rehearsed all basic commands
 
 - Register http://localhost:8080/WebGoat/
 
-**4-OverTheWire:Bandit** 
+**4-OverTheWire:Bandit Screenshots** 
 
-https://github.com/ahmad-zeeshan/DataSecurityHW/blob/main/screenshots/bandit0.png
-https://github.com/ahmad-zeeshan/DataSecurityHW/blob/main/screenshots/bandit1.png
-https://github.com/ahmad-zeeshan/DataSecurityHW/blob/main/screenshots/bandit2.png
-https://github.com/ahmad-zeeshan/DataSecurityHW/blob/main/screenshots/bandit3.png
-https://github.com/ahmad-zeeshan/DataSecurityHW/blob/main/screenshots/bandit4.png
-https://github.com/ahmad-zeeshan/DataSecurityHW/blob/main/screenshots/bandit5.png
+![bandit0](https://github.com/ahmad-zeeshan/DataSecurityHW/blob/main/screenshots/bandit0.png)
+![bandit1](https://github.com/ahmad-zeeshan/DataSecurityHW/blob/main/screenshots/bandit1.png)
+![bandit2](https://github.com/ahmad-zeeshan/DataSecurityHW/blob/main/screenshots/bandit2.png)
+![bandit3](https://github.com/ahmad-zeeshan/DataSecurityHW/blob/main/screenshots/bandit3.png)
+![bandit4](https://github.com/ahmad-zeeshan/DataSecurityHW/blob/main/screenshots/bandit4.png)
+![bandit5](https://github.com/ahmad-zeeshan/DataSecurityHW/blob/main/screenshots/bandit5.png)
 
